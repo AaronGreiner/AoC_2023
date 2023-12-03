@@ -9,3 +9,7 @@
 >Sum IDs for valid games: **2879**<br>
 >Sum of the power of lowest sets: **65122** <sup>*Bonus</sup>
 ***
+###### Output Day 3
+>Sum of all the part numbers: **527364**<br>
+>Sum of all gear ratios: **79026871** <sup>*Bonus</sup>
+***
