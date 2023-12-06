@@ -13,3 +13,7 @@
 >Sum of all the part numbers: **527364**<br>
 >Sum of all gear ratios: **79026871** <sup>*Bonus</sup>
 ***
+###### Output Day 2
+>Total points: **26218**<br>
+>Total number of scratchcards: **TODO** <sup>*Bonus</sup>
+***
